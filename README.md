@@ -1,6 +1,6 @@
 # MCAP to CSV converter
 
-# Installation
+# Usage
 (Note: you can copy and paste these terminal commands into the terminal using Ctrl+Shift+V)
 
 1. Download the code from this git repository:
